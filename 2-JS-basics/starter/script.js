@@ -83,3 +83,12 @@ var BMIJhon = massJhon / (heightJhon^2);
 
 var markHigherBMI = BMIMark > BMIJhon;
 console.log('Is Mark\'s BMI higher than Jhon\'s? ' + markHigherBMI);
+
+/*****
+* If / else statementes
+*/
+
+var fristName = 'Jhon';
+var civilStatus = 'single';
+
+if ()
